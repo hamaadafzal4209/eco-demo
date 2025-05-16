@@ -2,7 +2,6 @@
 
 import { useState, useRef, useEffect } from "react"
 import { X, Check, Globe } from 'lucide-react'
-import Image from "next/image"
 import { cn } from "@/lib/utils"
 
 type Language = {
