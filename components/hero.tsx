@@ -9,7 +9,7 @@ export function Hero() {
             <img
               src="https://cdn-images.farfetch-contents.com/29/85/53/73/29855373_58950585_1000.jpg"
               alt="Hero"
-              className="w-full max-h-[450px] h-auto rounded-lg object-cover"
+              className="w-full max-h-[380px] sm:max-h-[450px] h-auto rounded-lg object-cover"
             />
           </div>
 
