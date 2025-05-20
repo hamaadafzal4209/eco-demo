@@ -7,9 +7,9 @@ export function Hero() {
           {/* Left: Image */}
           <div className="w-full md:w-1/2">
             <img
-              src="https://cdn-static.farfetch-contents.com/cms-ccloud/caas/v1/media/10442456/data/7231e048cae967cebab4c68ff57d625d/1x1_messaging-side/616/wwmw-ss25-sale-launch.jpeg"
+              src="https://cdn-images.farfetch-contents.com/29/85/53/73/29855373_58950585_1000.jpg"
               alt="Hero"
-              className="w-full h-auto rounded-lg object-cover"
+              className="w-full max-h-[450px] h-auto rounded-lg object-cover"
             />
           </div>
 
